@@ -1,12 +1,11 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
+
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
 import 'package:hive/hive.dart';
 import 'package:love_calcu/calculator_component/services/api.dart';
-import 'package:love_calcu/main_control.dart';
 import 'package:love_calcu/welcome.dart';
 
 import 'package:path_provider/path_provider.dart' as path;
@@ -48,3 +47,7 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+
+
+

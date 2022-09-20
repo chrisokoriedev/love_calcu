@@ -8,7 +8,7 @@ import 'package:love_calcu/calculator_component/view/caculator_screen.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
 import 'calculator_component/style/style.dart';
-import 'main_control.dart';
+
 
 class WalkThroughScreen extends StatefulWidget {
   const WalkThroughScreen({Key? key}) : super(key: key);
