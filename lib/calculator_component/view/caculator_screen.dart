@@ -131,7 +131,7 @@ class _CalculatorScreenState extends State<CalculatorScreen>
                           child: Container(
                             alignment: Alignment.center,
                             width: double.infinity,
-                            height: 40.h,
+                            height: 60.h,
                             decoration: BoxDecoration(
                                 color: kCustomAmberColor,
                                 borderRadius: BorderRadius.circular(10.r)),
